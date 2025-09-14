@@ -127,7 +127,7 @@ This project is licensed under the **MIT License** – you’re free to use, mod
 
 ## 👨‍💻 Author
 
-* Developed by **[ahsu-cloud](https://github.com/ashu-cloud)**
+* Developed by **[ashu-cloud](https://github.com/ashu-cloud)**
 * If you like this project, don’t forget to ⭐ star the repo on GitHub!
 
 ```
